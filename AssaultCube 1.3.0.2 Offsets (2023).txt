@@ -1,0 +1,77 @@
+             AssaultCube 1.3.0.2 Offsets (2023)
+
+- Player Info :
+
+  Local Player : ["ac_client.exe+0x0017E0A8"]
+ 
+  Entity List : ["ac_client.exe+0x18AC04"]
+
+  Player Name : ["ac_client.exe+0x0017E0A8,205"]
+
+---------------------------------------------------------------------------
+
+- Health & Armor :
+
+  Health : ["ac_client.exe+0x0017E0A8,EC"]
+
+  Armor :  ["ac_client.exe+0x0017E0A8,F0"]
+
+---------------------------------------------------------------------------
+
+- Ammo :
+
+  Assault Rifle Ammo : ["ac_client.exe+0x0017E0A8,140"]
+
+  Shotgun Ammo : ["ac_client.exe+0x0017E0A8,134"]
+
+  Submachine Ammo : ["ac_client.exe+0x0017E0A8,138"]
+
+  Sniper Ammo : ["ac_client.exe+0x0017E0A8,13C"]
+
+  Carbine Ammo : ["ac_client.exe+0x0017E0A8,130"]
+
+  Pistol Ammo : ["ac_client.exe+0x0017E0A8,12C"]
+
+---------------------------------------------------------------------------
+
+- Grenade : ["ac_client.exe+0x0017E0A8,144"]
+
+---------------------------------------------------------------------------
+
+- Rapid Fire : 
+
+  Assault Rifle RF : ["ac_client.exe+0x0017E0A8,164"]
+ 
+  Shotgun RF : ["ac_client.exe+0x0017E0A8,158"]
+ 
+  Submachine RF : ["ac_client.exe+0x0017E0A8,15C"]
+
+  Sniper RF : ["ac_client.exe+0x0017E0A8,160"]
+
+  Carbine RF : ["ac_client.exe+0x0017E0A8,154"]
+
+  Pistol RF : ["ac_client.exe+0x0017E0A8,150"]
+
+---------------------------------------------------------------------------
+
+- Speed :
+  
+  Knife Speed : ["ac_client.exe+0x0017E0A8,14C"]
+ 
+  Grenade Speed : ["ac_client.exe+0x0017E0A8,168"]
+
+---------------------------------------------------------------------------
+
+- Coordinates & Views :
+
+  Coordinate X : ["ac_client.exe+0x0017E0A8,28"]
+
+  Coordinate Y : ["ac_client.exe+0x0017E0A8,30"]
+
+  Coordinate Z : ["ac_client.exe+0x0017E0A8,2C"]
+
+  View X : ["ac_client.exe+0x0017E0A8,34"]
+
+  View Y : ["ac_client.exe+0x0017E0A8,38"]
+
+    
